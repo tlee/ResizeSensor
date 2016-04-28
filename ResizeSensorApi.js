@@ -6,7 +6,7 @@
  * @preserve
  */
 
-define('droplet/ResizeSensor/ResizeSensorApi', ['droplet/ResizeSensor/ResizeSensor'],
+define(['./ResizeSensor'],
 	/**
 	 * @param ResizeSensor
 	 * @returns {ResizeSensorApi}

@@ -6,7 +6,7 @@
  * @preserve
  */
 
-define('droplet/ResizeSensor/ResizeSensor',
+define(
 	/**
 	 * @returns {ResizeSensor}
 	 */
